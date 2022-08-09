@@ -2,7 +2,7 @@
 
 ## Challenge Overview
 
-#### There is significant interest in opening a Surf n’ Shake shop in Oahu, Hawaii serving ice cream and surf board to locals and tourists. However, investor backing is required to get the business up and running.  W. Avy, a potential investor, is concerned about the weather and requested assistance running analytics on weather data for the island. 
+#### There is significant interest in opening a Surf n’ Shake shop in Oahu, Hawaii serving ice cream and surf boards to locals and tourists. However, investor backing is required to get the business up and running.  W. Avy, a potential investor, is concerned about the weather and requested assistance running analytics on weather data for the island. 
 
 ## Challenge Summary
 ### Deliverables 1 and 2 – Determine the Summary Statistics for June and December
