@@ -12,7 +12,7 @@
 ### Results and Key Differences
 -	The average temperature fluctuates between 74 (June) to 71 (December) degrees Fahrenheit.
 -	The lowest temperatures range from 64 (June) to 56 (December) degrees Fahrenheit. 
--
+- Temperatures are 69 degrees or above 87% of the year, assuming December has the lowest temperatures. 
 
 ### June Temperature Data
 ![](https://github.com/AB3478/surfs_up/blob/f4e640f0846cbce9a2e748acba47e413adf0fa15/Resources/June.png)
